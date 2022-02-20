@@ -137,7 +137,7 @@ ${chalk.blue.italic('ℹ️ Connecting to WhatsApp...')}`);
         });
 
         console.log(
-            chalk.green.bold('✅ ❤️MAALUTTY💙 working aan😎!')
+            chalk.green.bold('✅ ❤️akash💙 working aan😎!')
         );
         await new Promise(r => setTimeout(r, 1100));
 
